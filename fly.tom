@@ -4,7 +4,7 @@
 #
 
 app = 'api-umbrella'
-primary_region = 'den'
+primary_region = 'dfw'
 
 [http_service]
   internal_port = 8080
